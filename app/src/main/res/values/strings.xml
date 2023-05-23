@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GMapsApp-Android</string>
+    <string name="title_activity_pick">PickActivity</string>
+</resources>
